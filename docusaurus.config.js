@@ -8,13 +8,13 @@ const config = {
   favicon: 'img/logo.svg',
 
   // Set the production url of your site here
-  url: 'https://jeansimon20.github.io',
+  url: 'https://noreplybizner.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
-  baseUrl: '/Documentacion_Makers150/',
+  baseUrl: '/Documentacion_bizner/',
 
   // GitHub pages deployment config.
-  organizationName: 'JeanSimon20',
-  projectName: 'Documentacion_Makers150',
+  organizationName: 'noreplybizner',
+  projectName: 'Documentacion_bizner',
 
   onBrokenLinks: 'throw',
   i18n: {
@@ -96,7 +96,7 @@ const config = {
             position: 'left',
           },
           {
-            href: 'https://github.com/JeanSimon20/Documentacion_Makers150',
+            href: 'https://github.com/noreplybizner/Documentacion_bizner',
             label: 'GitHub',
             position: 'right',
           },
